@@ -1,3 +1,5 @@
+# AnNhatLam_K18_LV1_project_01
+
 ## Project Overview
 **Project Name:** AnNhatLam_K18_LV1_project_01  
 **Description:** This repository contains the solutions for the final project of the K18_LV1 course. The project consists of 8 exercises, each implemented as a separate Bash script (`cau1.sh` to `cau7.sh`).
